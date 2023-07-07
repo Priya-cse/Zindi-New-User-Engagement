@@ -1,6 +1,6 @@
 # Zindi-New-User-Engagement
 
-_**Introcution**_
+_**Introduction**_
 1. Zindi is the first data science competition platform in Africa which hosts an entire data science ecosystem of scientists, engineers, academics, companies, NGOs, governments and institutions.​
 2. The data which is provided to us is a part of Zindi user activity.​
 3. Our task is to determine if a new user will be active in the upcoming month using the data of their previous months.​
